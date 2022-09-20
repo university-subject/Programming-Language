@@ -18,4 +18,4 @@ HTML1
 
 /# is id
 id = "bug"
-<a href = "#bug">
+/<a href = "#bug"/>
