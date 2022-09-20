@@ -9,9 +9,9 @@ type = "reset"
 * post隱藏
 * get出現在頁面上
 HTML1
-
-單選 radio
-
-選單 select
-* 預設 selected
-* 選項 option
+-------
+* 多選 checkbox
+* 單選 radio
+* 選單 select
+  * 預設 selected
+  * 選項 option
