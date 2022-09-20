@@ -1,10 +1,13 @@
 # Web Programming Note
 collected & noted by JIngShing
 
+## HTML
 input 輸入框
 type = "text"
 type = "submit"
 type = "reset"
+
+\<form method = "post" action = "link.com">
 
 * post隱藏
 * get出現在頁面上
