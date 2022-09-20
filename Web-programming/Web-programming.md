@@ -15,7 +15,9 @@ HTML1
 * 選單 select
   * 預設 selected
   * 選項 option
+-------
+\# is id
 
-/# is id
 id = "bug"
-/<a href = "#bug"/>
+
+\<a href = "#bug">
