@@ -16,7 +16,7 @@ HTML1
   * 預設 selected
   * 選項 option
 -------
-\# is id
+"\#" is id
 
 id = "bug"
 
