@@ -7,5 +7,5 @@ You can see more python project on [JingShing's Python Progject](https://github.
 # Language Include
 * [Python](Python)
 * [C](C)
-* C++
-* Web-Programming
+* [C++](C++)
+* [Web-Programming](Web-programming)
