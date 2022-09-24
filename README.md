@@ -2,7 +2,8 @@ English | [繁體中文](README_TCH.md)
 # Programming-Language
 subject about programming language.
 
-You can see more python project on [JingShing's Python Progject](https://github.com/JingShing-Python)
+* You can see more python project on [JingShing's Python Progject](https://github.com/JingShing-Python)
+* You can see brainfuck learning in [brainfuck learning](https://github.com/JingShing/Brainfuck-Learning)
 
 # Language Include in this project
 * [Python](Python)
@@ -11,7 +12,7 @@ You can see more python project on [JingShing's Python Progject](https://github.
 * [Web-Programming](Web-programming)
 
 # Up to do
-- [ ] brainfuck
+- [X] brainfuck
 - [ ] rust
 - [ ] go
 - [ ] c#
@@ -31,3 +32,6 @@ You can see more python project on [JingShing's Python Progject](https://github.
 - [ ] PHP
 - [ ] Dart
 - [ ] Kotkin
+
+# complete
+- [X] brainfuck
