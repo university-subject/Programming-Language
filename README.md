@@ -1,4 +1,4 @@
-English | [繁體中文](READ_TCH.md)
+English | [繁體中文](README_TCH.md)
 # Programming-Language
 subject about programming language.
 
