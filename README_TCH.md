@@ -10,6 +10,7 @@
 * [C](C)
 * [C++](C++)
 * [Web-Programming](Web-programming)
+* [brainfuck](brainfuck)
 
 # 日後待定
 - [X] brainfuck
