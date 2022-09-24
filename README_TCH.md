@@ -9,3 +9,25 @@
 * [C](C)
 * [C++](C++)
 * [Web-Programming](Web-programming)
+
+# 日後待定
+- [ ] brainfuck
+- [ ] rust
+- [ ] go
+- [ ] c#
+- [ ] ruby
+- [ ] R
+- [ ] pascal
+- [ ] vhdl
+- [ ] JavaScript
+- [ ] Java
+- [ ] typescript
+- [ ] lua
+- [ ] visualbasic
+- [ ] SQL
+- [ ] HTML
+- [ ] HVML
+- [ ] Bash
+- [ ] PHP
+- [ ] Dart
+- [ ] Kotkin
