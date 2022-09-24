@@ -4,7 +4,7 @@
 
 對Python感興趣，可以到這看我更多的Python專案：[JingShing's Python Progject](https://github.com/JingShing-Python)
 
-# 包含的語言
+# 此專案包含的語言
 * [Python](Python)
 * [C](C)
 * [C++](C++)
