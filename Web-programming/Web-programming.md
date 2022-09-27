@@ -41,3 +41,6 @@ HTML1
 id = "bug"
 
 \<a href = "#bug">
+
+\<style type="css/text">
+type="css/text" $\Rightarrow$ MIME type
