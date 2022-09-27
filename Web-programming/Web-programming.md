@@ -42,5 +42,7 @@ id = "bug"
 
 \<a href = "#bug">
 
-\<style type="css/text">
+\<style type="text/css">
 type="css/text" $\Rightarrow$ MIME type
+
+\<link rel = "style" type = "text/css" href = "style.css">
