@@ -32,7 +32,7 @@ subject about programming language.
 - [ ] Bash
 - [ ] PHP
 - [ ] Dart
-- [ ] Kotkin
+- [ ] Kotlin
 
 # complete
 - [X] brainfuck
